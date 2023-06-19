@@ -1,0 +1,6 @@
+name = "QEDjl_Registry"
+uuid = "8001758d-046d-4e2b-bd0c-65d0e074dbf4"
+repo = "git@github.com:QEDjl-project/registry.git"
+description = "Local registry for the QEDjl-project."
+
+[packages]
